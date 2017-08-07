@@ -33,4 +33,5 @@ You can access the app by index.html.
 ## Credit
 
 Erik Veland 7 Aug 2017
+
 Data and icons © Tabcorp Holdings Limited 2017

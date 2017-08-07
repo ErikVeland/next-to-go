@@ -1,6 +1,6 @@
 {
   "name": "NextToGo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VueJS API project",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,10 @@
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "babel-preset-es2015": "^6.24.1",
-    "cors": "^2.8.4",
+    "babel-plugin-transform-runtime": "^6.1.2",
+    "babel-preset-stage-0": "^6.1.2",
     "cross-env": "^3.0.0",
+    "uglify-js": "git://github.com/mishoo/UglifyJS2.git#harmony-v2.8.22",
     "uglifyjs-webpack-plugin": "^0.4.6",
     "vue-hot-reload-api": "^2.1.0",
     "vue-html-loader": "^1.2.4",
